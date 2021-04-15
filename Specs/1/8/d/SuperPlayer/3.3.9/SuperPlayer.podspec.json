@@ -11,7 +11,7 @@
   "summary": "超级播放器",
   "source": {
     "git": "https://github.com/yinjun322/SuperPlayer_iOS.git",
-    "tag": "v10"
+    "tag": "8.5.1"
   },
   "platforms": {
     "ios": "9.0"
